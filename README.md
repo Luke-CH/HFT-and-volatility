@@ -1,2 +1,2 @@
 # HFT-and-volatility
-This repository contains files relating to a 
+This repository contains code relating to a research project investigating High Frequency Trading (HFT) and stock volatility. Unfortunately, I cannot include the `BigHFT.csv` file because it is the property of the Haslam College of Business at the University of Tennessee, so the code cannot be run. However, the R script aggregates data from daily to monthly observations using variable dependent functions then calculates some summary statistics including spearman and pearson coefficients as well as p values. The results of this analysis were the topic of a scholarly manuscript I wrote entitled "High Frequency Trading and Stock Volatility: A Cross-Sectional Analysis."
